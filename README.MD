@@ -6,22 +6,24 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 
 * 👉Apprentissage par projet – https://github.com/practical-tutorials/project-based-learning
-Project Based Learning is A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
-
+Project Based Learning is A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. 
+These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
 * 👉Manuel d'entretien technique – https://github.com/yangshun/tech-interview-handbook
-Not everyone has the time to do a few hundred LeetCode questions. Here are free and curated technical interview preparation materials for busy engineers, brought to you by me, the author of Blind 75. Over 1,000,000 people have benefitted from this handbook!
+Not everyone has the time to do a few hundred LeetCode questions. Here are free and curated technical interview preparation materials for busy engineers, 
+brought to you by me, the author of Blind 75. Over 1,000,000 people have benefitted from this handbook!
 
 * 👉 API publiques – https://github.com/public-apis/public-apis
-The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
+The Public APIs repository is manually curated by community members like you and folks working at APILayer. 
+It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
 
 
 * 👉 JavaScript propre – https://github.com/ryanmcdermott/clean-code-javascript
-Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
+Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. 
+It's a guide to producing readable, reusable, and refactorable software in JavaScript.
 
-Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, but they are ones codified over many years of collective experience by the authors of Clean Code.
-
-Our craft of software engineering is just a bit over 50 years old, and we are still learning a lot. When software architecture is as old as architecture itself, maybe then we will have harder rules to follow. For now, let these guidelines serve as a touchstone by which to assess the quality of the JavaScript code that you and your team produce.
+Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, 
+but they are ones codified over many years of collective experience by the authors of Clean Code.
 
 * 👉 DevDocs – https://github.com/freeCodeCamp/devdocs
 DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
@@ -39,7 +41,9 @@ This list was originally a clone of StackOverflow - List of Freely Available Pro
 
 * 👉 Aide-mémoires géniaux – https://github.com/LeCoupa/awesome-cheatsheets
 Why Awesome-Cheatsheets?
-I usually make a cheat sheet when I want to improve my skills in a programming language, a framework or a development tool. I started doing these kinds of things a long time ago on Gist. To better keep track of the history and to let people contribute, I re-organized all of them into this single repository. Most of the content is coming from official documentation and some books I have read.
+I usually make a cheat sheet when I want to improve my skills in a programming language, a framework or a development tool. 
+I started doing these kinds of things a long time ago on Gist. To better keep track of the history and to let people contribute, 
+I re-organized all of them into this single repository. Most of the content is coming from official documentation and some books I have read.
 
 
 * 👉 Liste de contrôle frontend – https://github.com/thedaviddias/Front-End-Checklist
